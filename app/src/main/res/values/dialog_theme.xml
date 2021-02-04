@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.DialogCustom" parent="Theme.AppCompat.Dialog.Alert">
+        <item name="actionBarTheme">@style/Theme.AppCompat.NoActionBar</item>
+<!--        <item name="backgroundColor">#FFFFFF</item>-->
+<!--        <item name="background">@color/white</item>-->
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+</resources>
